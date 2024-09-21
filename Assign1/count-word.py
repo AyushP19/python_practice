@@ -1,5 +1,5 @@
 s1=input()
-s1.strip()
+# s1.strip()
 l1=s1.split(' ')
 print(l1)
 i=0
